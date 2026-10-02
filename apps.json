@@ -1,0 +1,105 @@
+{
+  "name": "Alamin Custom Repository",
+  "identifier": "com.alamin.customrepo",
+  "subtitle": "Custom SideStore & LiveContainer Apps Collection",
+  "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/main/YTLite.png",
+  "website": "https://github.com",
+  "apps": [
+    {
+      "name": "YouTubePlus (YTLite)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "dayanch96",
+      "version": "21.39.4",
+      "versionDate": "2026-10-02T00:00:00Z",
+      "downloadURL": "https://github.com/dayanch96/YTLite",
+      "localizedDescription": "YouTube with YTLite tweak. Includes Ad-block, Background Playback, and SponsorBlock.",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/main/YTLite.png",
+      "tintColor": "FF0000",
+      "size": 125000000
+    },
+    {
+      "name": "YTMusicUltimate",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Thefaresmostafa",
+      "version": "9.17",
+      "versionDate": "2026-10-02T00:00:00Z",
+      "downloadURL": "https://github.com/Thefaresmostafa/YTMusic/releases/download/v9.17/YTMusic.ipa",
+      "localizedDescription": "Moded YouTube Music with Premium features unlocked.",
+      "iconURL": "https://raw.githubusercontent.com/Thefaresmostafa/YTMusic/main/icon.png",
+      "tintColor": "FF0000",
+      "size": 110000000
+    },
+    {
+      "name": "Octave Streaming",
+      "bundleIdentifier": "com.octavestreaming.app",
+      "developerName": "Octave Team",
+      "version": "1.0",
+      "versionDate": "2026-10-02T00:00:00Z",
+      "downloadURL": "https://octavestreaming.com/downloads/octave.ipa",
+      "localizedDescription": "Octave Media Streaming Player.",
+      "iconURL": "https://octavestreaming.com/favicon.ico",
+      "tintColor": "0080FF",
+      "size": 85000000
+    },
+    {
+      "name": "Stremio",
+      "bundleIdentifier": "com.stremio.pal",
+      "developerName": "Stremio",
+      "version": "2.0.8",
+      "versionDate": "2026-10-02T00:00:00Z",
+      "downloadURL": "https://dl.strem.io/apple/2.0.8b23/ios/stremio_iOS.ipa",
+      "localizedDescription": "Discover, organize and watch video content from all sources.",
+      "iconURL": "https://www.stremio.com/website/stremio-logo-small.png",
+      "tintColor": "6C5CE7",
+      "size": 95000000
+    },
+    {
+      "name": "KineMaster Premium",
+      "bundleIdentifier": "com.kinemaster.kios",
+      "developerName": "KineMaster Corp",
+      "version": "8.1.18",
+      "versionDate": "2026-10-02T00:00:00Z",
+      "downloadURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps/KineMaster.ipa",
+      "localizedDescription": "Video Editor & Maker with unlocked features.",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/KineMaster.png",
+      "tintColor": "FF4757",
+      "size": 140000000
+    },
+    {
+      "name": "Picsart Pro",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "PicsArt",
+      "version": "30.6.2",
+      "versionDate": "2026-10-02T00:00:00Z",
+      "downloadURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps/PicsArt.ipa",
+      "localizedDescription": "AI Photo & Video Editor with Gold features.",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/PicsArt.png",
+      "tintColor": "70A1FF",
+      "size": 160000000
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "WhoIsEVELYN",
+      "version": "9.1.28",
+      "versionDate": "2026-10-02T00:00:00Z",
+      "downloadURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps/EeveeSpotify.ipa",
+      "localizedDescription": "Spotify Moded with premium controls and ad-blocking.",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/Spotify.png",
+      "tintColor": "1DB954",
+      "size": 90000000
+    },
+    {
+      "name": "SpotC++ / Spotify++",
+      "bundleIdentifier": "com.spotify.client.plus",
+      "developerName": "SpotCompiled",
+      "version": "2.6.3",
+      "versionDate": "2026-10-02T00:00:00Z",
+      "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.6.3/SpotC++.v2.6.3_v9.0.98.ipa",
+      "localizedDescription": "Enhanced Spotify experience with tweaks built-in.",
+      "iconURL": "https://raw.githubusercontent.com/SpotCompiled/SpotC-Plus-Plus/main/icon.png",
+      "tintColor": "1DB954",
+      "size": 92000000
+    }
+  ]
+}
